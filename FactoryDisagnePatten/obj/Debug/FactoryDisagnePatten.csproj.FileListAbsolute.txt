@@ -1,0 +1,9 @@
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\bin\Debug\FactoryDisagnePatten.exe.config
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\bin\Debug\FactoryDisagnePatten.exe
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\bin\Debug\FactoryDisagnePatten.pdb
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\obj\Debug\FactoryDisagnePatten.csprojAssemblyReference.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\obj\Debug\FactoryDisagnePatten.Properties.Resources.resources
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\obj\Debug\FactoryDisagnePatten.csproj.GenerateResource.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\obj\Debug\FactoryDisagnePatten.csproj.CoreCompileInputs.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\obj\Debug\FactoryDisagnePatten.exe
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\FactoryDisagnePatten\obj\Debug\FactoryDisagnePatten.pdb

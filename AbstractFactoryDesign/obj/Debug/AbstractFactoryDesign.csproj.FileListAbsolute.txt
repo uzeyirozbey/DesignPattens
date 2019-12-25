@@ -1,0 +1,10 @@
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\bin\Debug\AbstractFactoryDesign.exe.config
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\bin\Debug\AbstractFactoryDesign.exe
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\bin\Debug\AbstractFactoryDesign.pdb
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.csprojAssemblyReference.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.Form1.resources
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.Properties.Resources.resources
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.csproj.GenerateResource.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.exe
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.pdb

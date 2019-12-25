@@ -1,0 +1,10 @@
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojAssemblyReference.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.Form1.resources
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.Properties.Resources.resources
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.GenerateResource.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+C:\Users\uzeyir.ozbey\Desktop\TasarımDesenleri\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb
